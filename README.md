@@ -19,12 +19,13 @@
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-db036b00-a425-11eb-854c-2d56038ec9a4.gif" width="100%" height="10px" />
 </div>
+*👋 Hi, I'm Shohjahon Faxriddinov
 * 🎨 Create modern and responsive websites
 * 💻 Write clean and organized code
 * 📱 Build mobile-friendly interfaces
 * ⚡ Focus on performance and user experience
 * 📚 Learn and explore new technologies
-# 👋 Hi, I'm Shohjahon Faxriddinov
+
 
 ### 🚀 Frontend Developer | Web Creator
 
