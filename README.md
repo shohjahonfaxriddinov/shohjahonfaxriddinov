@@ -12,7 +12,7 @@
   </a>
   &nbsp;
   <a href="tel:+998948222282">
-    <img src="https://img.shields.io/badge/Phone-+998_94_822_22_82-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Phone-+998_94_822_22_84-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
   <br /><br />
